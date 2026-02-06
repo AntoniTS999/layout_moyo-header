@@ -3,7 +3,7 @@ body {
   padding: 0;
   font-family: Roboto, Arial, Helvetica, sans-serif;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 500;
   background-color: aliceblue;
 
   --color: #00acdc;
@@ -19,7 +19,7 @@ body {
   box-sizing: border-box;
 }
 
-.logo img {
+.logo.logo_item{
   display: block;
   width: 40px;
 }
@@ -84,5 +84,5 @@ body {
 }
 
 .nav__link:hover {
-  color: #00acdc;
+  color: var(--color);
 }
