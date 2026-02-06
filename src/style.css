@@ -19,7 +19,7 @@ body {
   box-sizing: border-box;
 }
 
-.logo.logo_item{
+.logo_item {
   display: block;
   width: 40px;
 }
