@@ -47,7 +47,7 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
-  top: 0;
+
 }
 
 .nav__item:last-child {
@@ -68,7 +68,6 @@ body {
   border-radius: 8px;
   background-color: var(--color);
   top: 56px;
-  bottom: 0;
 }
 
 .nav__link {
